@@ -16,12 +16,12 @@ This repository contains information relating to my BHS 2020 final project. I am
 
 I am a second year PhD student at McGill in the IPN program and I work in the labs of Robert Zatorre and Alain Dagher. I have both a music and psychology background. I am particularly interested in music reward processing and the reward system, particularly in terms of psychopathology,focusing on apathy and anhedonia. 
 
-My aim is to gain experience with fMRI preprocessing and resting state connectivity analysis. I plan to work on a single participant's data first and then create a pipeline from there, and thus use my project as a jumping off point.
+My aim is to gain experience with fMRI preprocessing and resting state connectivity analysis. I plan to learn the methodology using a single approach and then I will create a pipeline from there. Therefore, I plan to use my BHS 2020 project as a jumping off point.
 
 ### Tools 
 
 This project will utilize the following tools: 
- * Github (for data management and collaboration purposes)
+ * Github and Git (for data management and collaboration purposes)
  * FSL (for data preprocessing and analysis)
  * Python (for the data anlysis)
  
