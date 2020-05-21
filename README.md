@@ -2,8 +2,6 @@
 Final project 
 [![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
 
-# A template for project reports at BrainHack School
-
 Team contributors: Me, other Brainhack School participants if interested(?)
 
 ![BrainHack School](bhs2020.png)
