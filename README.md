@@ -1,6 +1,6 @@
 # arielle-bhs-project-
 Final project 
-[![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
+[![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://https://github.com/brainhack-school2020/arielle-bhs-project-)
 
 Team contributors: Me, other Brainhack School participants if interested(?)
 
@@ -8,7 +8,7 @@ Team contributors: Me, other Brainhack School participants if interested(?)
 
 ## Summary 
 
-This repository contains information relating to my BHS 2020 final project. I am interested in looking at functional connectivity in resting state data from healthy participants (that I collected). 
+This repository contains information relating to my BHS 2020 final project. I am interested in looking at functional connectivity in resting state data in relation to behavioral and/or personality attributes collected from healthy participants. 
 
 ## Project definition 
 
